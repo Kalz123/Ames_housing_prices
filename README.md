@@ -34,7 +34,7 @@ Later, because the true relationship between the response variable and the expla
 |  | Training (%)| Testing (%)| RMSE |
 |---|---|---|---|
 |  Linear regression|89  |71  |2,894,962  |
-|  Lasso regression|  88|  73|40,869,658  |
+|  Lasso regression|  88|  73|40,870  |
 |  Lasso regression(log transformation)|  _ |  _ |24,119|
 
 ### Further Steps
