@@ -1,15 +1,17 @@
 
-Prediciting Ames Housing Prices Using Linear Regression
-Author: Faisal Kalema
-Checkout [The Magic of LASSO Regression Model](https://medium.com/swlh/the-magic-of-lasso-regression-model-3a79328013f0) on medium
+# Prediciting Ames Housing Prices Using Linear Regression  
 
-**Contents:**
-Problem Statement
-Data Dictionary
-Executive Summary
-Results Table
-Further Steps
+**Author: Faisal Kalema**  
 
+**Checkout [The Magic of LASSO Regression Model](https://medium.com/swlh/the-magic-of-lasso-regression-model-3a79328013f0) on medium**  
+
+## Contents:  
+
+Problem Statement  
+Data Dictionary  
+Executive Summary  
+Results Table  
+Further Steps  
 
 
 ### Problem Statement
