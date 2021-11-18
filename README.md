@@ -1,5 +1,5 @@
 
-# Prediciting Ames Housing Prices Using Linear Regression  
+# Predicting Ames Housing Prices Using Linear Regression  
 
 **Author: Faisal Kalema**  
 
